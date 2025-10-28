@@ -1,5 +1,6 @@
 package org.example.adapter;
 
+
 public class LegacyDataBase {
     public void initialize() {
         System.out.println("Initializing legacy database...");

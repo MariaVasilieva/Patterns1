@@ -1,4 +1,4 @@
-package org.example.Observer;
+package org.example.observer;
 
 public class Follower implements Subscriber{
     private String followerName;

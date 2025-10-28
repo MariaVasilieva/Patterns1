@@ -1,4 +1,4 @@
-package org.example.Strategy;
+package org.example.strategy;
 
 public class QuickSortStrategy implements SortingStrategy{
     @Override

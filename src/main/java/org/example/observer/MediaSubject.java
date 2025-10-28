@@ -1,4 +1,4 @@
-package org.example.Observer;
+package org.example.observer;
 
 public interface MediaSubject {
     void subscribe(Subscriber subscriber);

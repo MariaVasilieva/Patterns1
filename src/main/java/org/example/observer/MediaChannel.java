@@ -1,4 +1,4 @@
-package org.example.Observer;
+package org.example.observer;
 
 public class MediaChannel {
     private String channelName;
